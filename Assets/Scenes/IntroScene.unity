@@ -376,7 +376,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 710499046}
         m_TargetAssemblyTypeName: MainScene_Button, Assembly-CSharp
-        m_MethodName: SceneChange_inGame
+        m_MethodName: SceneChange
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
